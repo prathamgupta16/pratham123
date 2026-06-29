@@ -1,2 +1,2 @@
 # pratham123
-this is first repo
+this is first reposetory on github 
